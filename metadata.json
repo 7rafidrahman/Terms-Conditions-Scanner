@@ -1,0 +1,7 @@
+{
+  "name": "Terms & Conditions Summarizer",
+  "description": "An application that uses your camera to scan Terms and Conditions documents and provides a simplified, highlighted summary in both English and Bengali. It includes an AI assistant to answer questions about the text and allows saving summaries for offline access.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
